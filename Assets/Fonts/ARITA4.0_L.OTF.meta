@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c53c75e49a3e9ca40920ff33ba97d9f0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Arita-dotum4.0(OTF)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ce243e88774417548a8a439b6f4fbd77, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
